@@ -1,6 +1,6 @@
 ## CODING INSTRUCTIONS
 
-* Create only Functional Components
+* Use only Functional Components
 * Create Components only inside Components folder
 
 ## Available Scripts
