@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+## CODING INSTRUCTIONS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* Create only Functional Components
+* Create Components only inside Components folder
 
 ## Available Scripts
 
@@ -13,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+=====================================================================
+IGNORE THIS PART
+
 
 ### `npm test`
 
